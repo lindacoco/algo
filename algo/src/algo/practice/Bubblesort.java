@@ -2,7 +2,7 @@ package algo.practice;
 
 import java.util.Arrays;
 
-public class bubblesort {
+public class Bubblesort {
 
 	public static void main(String[] args) {
            int[] a= {6, 18,55,7};

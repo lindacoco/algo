@@ -1,6 +1,6 @@
 package algo.practice;
 
-public class gugudan {
+public class Gugudan {
 
 	public static void main(String[] args) {
 		
